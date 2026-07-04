@@ -1,4 +1,5 @@
-# XGBoost 
+# Boston Housing Price Prediction
+# Regression project using XGBoost Regressor
 
 ## Importing the libraries
 import numpy as np
