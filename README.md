@@ -37,5 +37,5 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib
 Install dependencies:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn xgboost
+pip install -r requirements.txt
 ```
